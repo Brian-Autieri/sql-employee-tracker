@@ -10,7 +10,7 @@ Users can use this application by installing the required dependencies and runni
 
 ### Video Link
 
-https://drive.google.com/file/d/1r6orjRHl3M2ocfJyguiMnR3R1e52WPVf/view
+https://watch.screencastify.com/v/CZWLFZNlohPrNzk2QNJT
 
 ### Webpage Screenshot
 
